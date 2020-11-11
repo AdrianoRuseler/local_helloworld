@@ -22,6 +22,8 @@
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+// About: https://docs.moodle.org/dev/version.php
+
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_helloworld';
