@@ -22,12 +22,12 @@
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-// About: https://docs.moodle.org/dev/version.php
+// About: https://docs.moodle.org/dev/version.php.
 
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_helloworld';
-$plugin->release = '0.1.0';
-$plugin->version = 2020111100;
+$plugin->release = '0.1.1';
+$plugin->version = 2022011300;
 $plugin->requires = 2020061500;
 $plugin->maturity = MATURITY_ALPHA;
