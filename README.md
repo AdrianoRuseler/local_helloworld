@@ -4,6 +4,8 @@ TODO Describe the plugin shortly here.
 
 TODO Provide more detailed description here.
 
+TODO Test the workflow
+
 ## License ##
 
 2020 Adriano Ruseler <ruseler@utfpr.edu.br>
