@@ -29,5 +29,6 @@ defined('MOODLE_INTERNAL') || die();
 $plugin->component = 'local_helloworld';
 $plugin->release = '0.1.1';
 $plugin->version = 2022011300;
+$plugin->incompatible = 400; // To test workflows
 $plugin->requires = 2020061500;
 $plugin->maturity = MATURITY_ALPHA;
